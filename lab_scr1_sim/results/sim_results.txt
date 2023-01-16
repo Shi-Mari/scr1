@@ -6,4 +6,4 @@ Misalign![0;32mTest passed[0m
 # Summary: 1/1 tests passed
 #--------------------------------------
 
-- /home/maria/Desktop/Kristall/Lab2/scr1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
+- /home/maria/Desktop/Kristall/scr1/src/tb/scr1_top_tb_runtests.sv:199: Verilog $finish
